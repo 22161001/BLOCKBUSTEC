@@ -61,8 +61,8 @@ Está pensado como una solución educativa o de prototipo para negocios de renta
 
 ---
 
-### Creaditos del equipo:
--Antonio Contreras Alan
+### Creditos del equipo:
+-**Antonio Contreras Alan
 
 -
 
