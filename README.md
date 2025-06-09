@@ -44,7 +44,9 @@ Está pensado como una solución educativa o de prototipo para negocios de renta
 - **AdminUsuarios**: Gestión de usuarios registrados
 - **AdminCobro**:
 -Visualización de rentas activas
+
 -Registro de observaciones por daños o mal uso
+
 -Cálculo automático de cobros adicionales por retrasos o daños
 
 
@@ -59,8 +61,15 @@ Está pensado como una solución educativa o de prototipo para negocios de renta
 
 ---
 
+### Creaditos del equipo:
+-Antonio Contreras Alan
 
+-
 
-Video de Youtube
+-
+
+--------
+
+### Video de Youtube
 https://youtu.be/-sdFe6Y8UaE
  
