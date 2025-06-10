@@ -65,9 +65,9 @@ Está pensado como una solución educativa o de prototipo para negocios de renta
 
 - Antonio Contreras Alan
 
--
+-Nuñez Reyes Jorge Emilio
 
--
+-Cruz Gallegos Julio Gabriel
 
 --------
 
